@@ -1,4 +1,4 @@
-module go-highlight
+module github.com/i582/go-highlight
 
 go 1.15
 
